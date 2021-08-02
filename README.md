@@ -32,6 +32,11 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 
 # 2 MARCO TEÓRICO
+<div align="center">
+  
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/png.png)
+ 
+   </div>
 
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
@@ -40,14 +45,18 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
      
 |**CANTIDAD**|       **MATERIAL O EQUIPO**      |
 |    :---:   |              :---:               | 
-|      2     |     Fuente de Voltaje de C.D.    |
-|      2     |       Multímetros Digitales      |
-|      1     |        Resistor de 560 Ω         |
-|      1     |        Resistor de 4.7 kΩ        |
-|      1     |         Resistor de 330 Ω        |
-|      1     |         Resistor de 100 Ω        |
+|      1     |     Fuente de Voltaje de C.D.    |
+|      1     |       Multímetro Digitale        |
+|      1     |        Resistor de 220 Ω         |
+|      1     |        Resistor de 470 Ω         |
+|      1     |         Resistor de 680 Ω        |
+|      1     |         Resistor de 820 Ω        |
 |      1     |         Resistor de 1 kΩ         |
-|      1     |Potenciómetro de precisión de 1 kΩ|
+|      1     |         Resistor de 1.5 kΩ       |
+|      1     |         Resistor de 1.8 kΩ       |
+|      1     |         Resistor de 2.2 kΩ       |
+|      1     |         Resistor de 3.9 kΩ       |
+|      1     |         Resistor de 4.7 kΩ       |
 |      1     |            Protoboard            |
 </div>
 
