@@ -1,7 +1,5 @@
 # Informe--Laboratorio-6
 
-div align="center">
-
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 AUTORES
@@ -20,7 +18,7 @@ INGENIERO
 
 Ing. Darwin Omar Alulema Flores
 
-</div>
+
 
 # 1 OBJETIVOS
 
