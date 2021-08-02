@@ -42,7 +42,8 @@ Ing. Darwin Omar Alulema Flores
 <div align="center">
   
 ![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/png.png)
- 
+
+
    </div>
 
 
@@ -71,7 +72,13 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM.jpeg)
 
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM%20(1).jpeg)
 
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM%20(2).jpeg)
+
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM%20(3).jpeg)
+
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM%20(4).jpeg)
 
 # 5 VIDEO 
 
