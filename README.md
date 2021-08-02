@@ -70,6 +70,14 @@ Ing. Darwin Omar Alulema Flores
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%2010.29.37%20AM.jpeg)
+
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%2010.29.37%20AM%20(1).jpeg)
+
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%2010.29.37%20AM%20(2).jpeg)
+
+![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%2010.29.37%20AM%20(3).jpeg)
+
 ![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM.jpeg)
 
 ![image](https://github.com/Jhosu115/Informe--Laboratorio-6/blob/main/WhatsApp%20Image%202021-08-02%20at%209.45.46%20AM%20(1).jpeg)
