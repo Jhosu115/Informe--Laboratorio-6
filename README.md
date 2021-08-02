@@ -25,11 +25,17 @@ Ing. Darwin Omar Alulema Flores
 
 ## **1.1 Objetivo general**
 
-Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+- Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 ## **1.2. Objetivos específicos**
 
+- Conocer los fundamentos básicos de estos teoremas y su aplicación.
 
+- Analizar el circuito mediante la aplicación de los Teorema de la Máxima Transferencia de Potencia.
+
+- Verificar los parametros determinados para el teorema.
+
+- Comprobar experimentalmente que se cumpla el teorema en estudio.
 
 # 2 MARCO TEÓRICO
 <div align="center">
@@ -73,7 +79,17 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 # 6 CONCLUSIONES 
 
+- El circuito obtenido luego de aplicar el teorema es mucho mas simple y rapido para calcular voltajes y corrientes.
 
+- Permiten encontrar un circuito equivalente de manera simple y rápida aun en circuitos de naturaleza complicados.
 
 
 # 7 BIBLIOGRAFÍAS
+
+- https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
+- http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/06_Thevenin_Norton_Maxima_Transferencia_de_Potencia.pdf
+
+- https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
+
+- https://electronicalugo.com/teorema-maximo-de-transferencia-de-energia/
